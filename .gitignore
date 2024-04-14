@@ -1,8 +1,4 @@
 .DS_Store
-<<<<<<< HEAD
-/node_modules
-=======
 /node_modules
 /dist
 /.parcel-cache
->>>>>>> 6cca5c277ba54483dd6bf7f01612faf6d3603817
